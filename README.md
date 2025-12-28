@@ -1,8 +1,6 @@
- Final Step: Creating the README.md
+ Creating the README.md
 
-To make your project professional and ready for submission, you need a standard `README.md` file. This tells the reviewers (and your future self) exactly what you did.
-
-**Action:** Create a file named **`README.md`** in your project root (`fraud-detection/`) and paste the following content.
+Action: Create a file named **`README.md`** in your project root (`fraud-detection/`) and paste the following content.
 
 ```markdown
 # Fraud Detection System for E-Commerce & Banking
