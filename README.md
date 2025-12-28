@@ -1,11 +1,4 @@
-This is excellent progress. These numbers confirm your model is behaving exactly as expected from the classification report:
-
-* **170 False Positives:** This is very low compared to the 1,579 legitimate frauds caught. This means your model is "safe"—it rarely accuses innocent customers.
-* **1,251 False Negatives:** This is the trade-off. To keep false positives low, the model missed some fraud. In your report, you can justify this by saying, *"We prioritized user experience over catching every single fraudster."*
-
----
-
-### Final Step: Creating the README.md
+ Final Step: Creating the README.md
 
 To make your project professional and ready for submission, you need a standard `README.md` file. This tells the reviewers (and your future self) exactly what you did.
 
